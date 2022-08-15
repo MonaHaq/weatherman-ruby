@@ -1,3 +1,3 @@
 # WEATHERMAN
 
-## _The best ever weatherman assignment_
+## _Weatherman assignment_
